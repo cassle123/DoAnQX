@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#99f266"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="activity.MiGoiActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:background="#65BC4A"
+        android:titleTextColor="#111"
+        app:title="Mì, Phở, Bún các loại"
+        android:id="@+id/toolbarmigoi"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+    </androidx.appcompat.widget.Toolbar>
+    <ListView
+        android:id="@+id/listviewmigoi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </ListView>
+</LinearLayout>

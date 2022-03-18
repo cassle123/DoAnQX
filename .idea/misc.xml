@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/background_button_dialog.xml" value="0.3728205128205128" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/boder2.xml" value="0.3728205128205128" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/border.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/circle_tick.xml" value="0.3728205128205128" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.3728205128205128" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/ic_green_check_circle_24.xml" value="0.3728205128205128" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3728205128205128" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/radiusbutton.xml" value="0.29907407407407405" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/spinner.xml" value="0.1" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/drawable/viewholder_loaitp.xml" value="0.22592592592592592" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_banh_keo.xml" value="0.3625" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_chi_tiet_thuc_pham.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_do_uong.xml" value="0.3484375" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_dong_vat.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_giohang.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_intro.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_lien_he.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_mi_goi.xml" value="0.3625" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_sua_uong.xml" value="0.20460358056265984" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_thong_tin.xml" value="0.371875" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_thongtin.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_thongtin_khactivity.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_thuc_pham_dong_hop.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/activity_thuc_vat.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dialog_success.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_banhkeo.xml" value="0.3625" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_dongvat.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_douong.xml" value="0.3625" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_giohang.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_listview_loaitp.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_migoi.xml" value="0.3625" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_suauong.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_thucphamdonghop.xml" value="0.14887640449438203" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_thucphammoinhat.xml" value="0.33" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/dong_thucvat.xml" value="0.25" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/progressbar.xml" value="0.1" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/layout/viewholder_loaitp.xml" value="0.3625" />
+        <entry key="..\:/DoAnMobile/DoAnQX/app/src/main/res/menu/menu.xml" value="0.17407407407407408" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
